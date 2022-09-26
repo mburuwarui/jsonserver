@@ -1,6 +1,4 @@
 {
-  "title": "Comment with html content",
-  "category": "comments",
   "author": "rtivital",
   "dependencies": [
     "/core/avatar/",
